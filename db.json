@@ -21,7 +21,7 @@
     {
       "text": "Bring lunch",
       "day": "Saturday",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     }
   ]
